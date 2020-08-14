@@ -32,4 +32,4 @@ Use `worker.py` to pick and actually excute tasks. You can sprawl as many worker
 python3 worker.py --id 1
 python3 worker.py --id 2
 ```
-
+All the experiment results will be stored in `<g.default_repo_dir>/rlt/`.
