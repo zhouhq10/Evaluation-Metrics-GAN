@@ -25,4 +25,5 @@ python3 demo_dcgan.py \
 --outf <output_folder> \
 --sampleSize 2000
 ```
-![demo](demo.gif)
+![demo1](demo1.gif)
+![demo2](demo2.gif)
